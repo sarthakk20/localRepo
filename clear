@@ -1,0 +1,11 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 66fc394..5aa5962 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -2,4 +2,4 @@[m
+ [m
+ <p>Small changes.</p>[m
+ [m
+[31m-<p>Changes created into the new branch (button)</p>[m
+[32m+[m[32m<p>Changes created into the new branch (link)</p>[m
+\ No newline at end of file[m
